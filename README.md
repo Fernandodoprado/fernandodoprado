@@ -1,43 +1,45 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Especialista+em+Bots+para+Discord;Focado+em+Node.js+e+JavaScript;Arquitetura+Front-end+e+Back-end" alt="Typing SVG" />
+</div>
+
+---
+
 # Olá, eu sou Fernando do Prado! 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fernandodoprado/fernandodoprado/main/professional_header.svg?sanitize=true" alt="Fernando do Prado - Developer Header" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fernandodoprado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodoprado&layout=compact&langs_count=7&theme=tokyonight" height="170em" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fernandodoprado&show_icons=true&theme=nord&include_all_commits=true&count_private=true" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodoprado&layout=compact&langs_count=7&theme=nord" height="170em" />
-</div>
+### 🎯 Foco e Expertise
+- 💻 **Desenvolvimento Full Stack:** Construindo aplicações escaláveis e performáticas.
+- 🤖 **Bot Architect:** Desenvolvimento de sistemas de automação complexos para Discord usando **Node.js**.
+- 🚀 **Estudos Atuais:** Aprofundamento em frameworks de Back-end e otimização de interfaces no Front-end.
 
-### 🎯 Sobre Mim e Foco Atual
-- 💻 **Full-Stack Developer** em constante evolução.
-- 🚀 Atualmente focado no aprofundamento em arquitetura de **Bots para Discord** (Node.js/JavaScript).
-- 🌱 Estudando padrões de design no **Front-end** e otimização de performance no **Back-end**.
-- 🛠️ Entusiasta de hardware, com olhar crítico para infraestrutura e performance de sistemas.
+### 🛠️ Stacks de Tecnologia
 
-### 🛠️ Tecnologias e Ferramentas
-
-#### Front-end
+#### **Front-end & Design**
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### Back-end & Bots
+#### **Back-end & Automação**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
-
-#### Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-### 📫 Onde me Encontrar
+### 📫 Contato Profissional
 <p align="left">
-  <a href="https://linkedin.com/in/seu-perfil-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/fernando.doprado" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:trabalho.fernandodoprado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/invite/gbbr" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
+
+---
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fernandodoprado&theme=tokyonight" alt="GitHub Streak" />
+</div>
