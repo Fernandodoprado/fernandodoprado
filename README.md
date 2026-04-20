@@ -7,8 +7,16 @@
 # Olá, eu sou Fernando do Prado! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fernandodoprado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodoprado&layout=compact&langs_count=7&theme=tokyonight" height="170em" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Fernandodoprado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="175em" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodoprado&layout=compact&langs_count=7&theme=tokyonight&count_private=true" height="175em" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### 🎯 Foco e Expertise
@@ -38,8 +46,3 @@
   <a href="mailto:trabalho.fernandodoprado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.gg/invite/gbbr" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
-
----
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fernandodoprado&theme=tokyonight" alt="GitHub Streak" />
-</div>
