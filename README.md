@@ -76,6 +76,6 @@ Para conversar sobre desenvolvimento web, bots para Discord ou automação:
 
 **[trabalho.fernandodoprado@gmail.com](mailto:trabalho.fernandodoprado@gmail.com)**
 
-[Instagram](https://instagram.com/fernando.doprado) · [Comunidade no Discord](https://discord.gg/invite/gbbr)
+[Instagram](https://instagram.com/fernando.doprado) · [Comunidade no Discord](https://discord.gg/BrcFduzBat)
 
 </div>
