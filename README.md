@@ -1,48 +1,81 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Especialista+em+Bots+para+Discord;Focado+em+Node.js+e+JavaScript;Arquitetura+Front-end+e+Back-end" alt="Typing SVG" />
+
+# Fernando do Prado
+
+### Desenvolvimento Full Stack · Bots para Discord · Automação
+
+Construo aplicações web e automações que conectam interfaces, APIs e comunidades.
+
+[Contato profissional](mailto:trabalho.fernandodoprado@gmail.com) · [GitHub](https://github.com/Fernandodoprado) · [Instagram](https://instagram.com/fernando.doprado)
+
 </div>
 
 ---
 
-# Olá, eu sou Fernando do Prado! 👋
+## Sobre mim
+
+Sou desenvolvedor com foco em **JavaScript, Node.js e Python**. Meus projetos combinam desenvolvimento de painéis web, APIs, bots para Discord e automação de interfaces com visão computacional.
+
+Trabalho na integração entre **front-end, back-end e serviços externos**, desde a interface de configuração até a execução de tarefas e a persistência de dados. Tenho interesse especial em ferramentas para comunidades e em transformar processos repetitivos em fluxos automatizados.
+
+## O que desenvolvo
+
+- **Aplicações web:** painéis com React e Next.js, interfaces com Tailwind CSS e APIs com Express.
+- **Bots para Discord:** recursos de moderação, atendimento por tickets, rankings e automações com discord.js.
+- **Integrações:** autenticação, webhooks, pagamentos e assinaturas conectados ao back-end.
+- **Automação em Python:** captura de tela, reconhecimento de elementos com OpenCV e leitura de texto com OCR.
+
+## Projetos em destaque
+
+### Plataforma de gestão para Discord
+*Projeto com código privado*
+
+Aplicação que reúne bot, API e painel web para administrar comunidades. Inclui moderação, tickets, rankings e integração de assinaturas e pagamentos via PIX.
+
+**Tecnologias:** Node.js · discord.js · Express · MongoDB · Mongoose · React · Next.js · Tailwind CSS
+
+### Automação de interfaces com visão computacional
+*Projeto com código privado*
+
+Projeto em Python que identifica elementos em capturas de tela e executa sequências de ações em uma aplicação desktop. Utiliza correspondência de imagens em diferentes escalas, reconhecimento de dígitos e OCR, com tratamento de falhas e registro de estatísticas.
+
+**Tecnologias:** Python · OpenCV · NumPy · Tesseract · APIs do Windows
+
+### [Bots de música para Discord](https://github.com/Fernandodoprado/discordmusicbot)
+*Repositório público*
+
+Repositório que reúne links de instalação de bots de música para servidores Discord.
+
+[Ver repositório →](https://github.com/Fernandodoprado/discordmusicbot)
+
+## Tecnologias utilizadas nos projetos
+
+| Área | Tecnologias |
+| :--- | :--- |
+| Linguagens | JavaScript, Python |
+| Front-end | React, Next.js, Tailwind CSS, HTML, CSS |
+| Back-end e dados | Node.js, Express, MongoDB, Mongoose |
+| Bots e integrações | discord.js, Discord API, APIs REST, webhooks |
+| Visão computacional | OpenCV, NumPy, Tesseract |
+| Operação | Git, PM2, Caddy |
+
+## Como organizo minhas soluções
+
+- Separação entre interface, API e execução das automações.
+- Persistência de configurações e dados para dar continuidade aos fluxos.
+- Tratamento de erros e alternativas quando um recurso ou elemento não está disponível.
+- Logs, estatísticas e rotinas de backup para apoiar a manutenção.
+
+---
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Fernandodoprado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="175em" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodoprado&layout=compact&langs_count=7&theme=tokyonight&count_private=true" height="175em" />
-      </td>
-    </tr>
-  </table>
+
+### Vamos conversar?
+
+Para conversar sobre desenvolvimento web, bots para Discord ou automação:
+
+**[trabalho.fernandodoprado@gmail.com](mailto:trabalho.fernandodoprado@gmail.com)**
+
+[Instagram](https://instagram.com/fernando.doprado) · [Comunidade no Discord](https://discord.gg/invite/gbbr)
+
 </div>
-
-### 🎯 Foco e Expertise
-- 💻 **Desenvolvimento Full Stack:** Construindo aplicações escaláveis e performáticas.
-- 🤖 **Bot Architect:** Desenvolvimento de sistemas de automação complexos para Discord usando **Node.js**.
-- 🚀 **Estudos Atuais:** Aprofundamento em frameworks de Back-end e otimização de interfaces no Front-end.
-
-### 🛠️ Stacks de Tecnologia
-
-#### **Front-end & Design**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-#### **Back-end & Automação**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
-### 📫 Contato Profissional
-<p align="left">
-  <a href="https://instagram.com/fernando.doprado" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:trabalho.fernandodoprado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.gg/invite/gbbr" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
